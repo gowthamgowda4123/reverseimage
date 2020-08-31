@@ -1,5 +1,0 @@
-Pillow
-tensorflow>=2.0.0
-django
-cv2
-pickle
