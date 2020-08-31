@@ -19,4 +19,5 @@ run the reverse image search django project
 
 after the excecution its shows like:
   Starting development server at http://127.0.0.1:8000/
-click on teh url to perform reverse image search.
+click on the url to perform reverse image search.
+  
